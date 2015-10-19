@@ -1,2 +1,3 @@
 Yet another try to push data to GH...
 Fetch test
+Push from local
